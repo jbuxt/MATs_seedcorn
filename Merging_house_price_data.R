@@ -4,7 +4,7 @@ library(tibble)
 library(dplyr)
 library(tmap)
 
-#Price paid data accessed from HM Land Registry
+#Price paid data accessed from HM Land Registry. Other years available, this code uses 2023.
 #Can be found here: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 #Citation requirement: Contains HM Land Registry data © Crown copyright and database right 2021. This data is licensed under the Open Government Licence v3.0.
 
